@@ -16,7 +16,7 @@ module.exports = {
  // ℹ️ Removed commands like welcome,goodbye etc and other commands and features that cause whatsapp account/group ban thank you!
 //____________________________________________________________________________________________________________________________________________  
   //🤖 BOT CONFIGURATION
-  SESSION_ID: process.env.SESSION_ID || 'Phoenix~ForceKnight',
+  SESSION_ID: process.env.SESSION_ID || 'Phoenix~CobraFalcon',
   STICKER_DATA: process.env.STICKER_DATA || '🎯ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ🍀',
   ALIVE_DATA: process.env.ALIVE_DATA || '👋 ʜᴇʏ &sender, ɪ ᴍ *Alex-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg',
   AUDIO_DATA: process.env.AUDIO_DATA || 'Phoenix-MD;Abhishek Suresh;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg',
@@ -34,7 +34,7 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || '',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
   RENDER_NAME: process.env.RENDER_NAME || '',
-  RENDER_API: process.env.RENDER_API || '',
+  RENDER_API: process.env.RENDER_API || 'rnd_M5I2yA26TOfAG5ZplbiVXauGkWJi',
   KOYEB_APP_NAME: process.env.KOYEB_APP_NAME || '',
   KOYEB_API_KEY: process.env.KOYEB_API_KEY || '',
   
