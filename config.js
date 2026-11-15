@@ -21,7 +21,7 @@ module.exports = {
   ALIVE_DATA: process.env.ALIVE_DATA || '👋 ʜᴇʏ &sender, ɪ ᴍ *Alex-ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg',
   AUDIO_DATA: process.env.AUDIO_DATA || 'Phoenix-MD;Abhishek Suresh;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg',
   BOT_INFO: process.env.BOT_INFO || 'ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ;919074692450;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg', 
-  PREFIX: process.env.PREFIX || '.', //Type false to use without prerix
+  PREFIX: process.env.PREFIX || 'true', //Type false to use without prerix
   MODE: process.env.MODE || 'private', //Type public to change bot mode to public
   SUDO: process.env.SUDO || '94753894510, 918157993101',
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || '',
@@ -33,7 +33,7 @@ module.exports = {
   //🛜 DEPLOY/HOSTING NAME AND API KEY
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || '',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
-  RENDER_NAME: process.env.RENDER_NAME || '',
+  RENDER_NAME: process.env.RENDER_NAME || 'Alexcon Bot',
   RENDER_API: process.env.RENDER_API || 'rnd_M5I2yA26TOfAG5ZplbiVXauGkWJi',
   KOYEB_APP_NAME: process.env.KOYEB_APP_NAME || '',
   KOYEB_API_KEY: process.env.KOYEB_API_KEY || '',
